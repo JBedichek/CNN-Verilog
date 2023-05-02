@@ -1,2 +1,3 @@
 # CNN-Verilog
-Verilog files for convolutional neural network implementations. 
+This repository contains Verilog files for an implementation of a modular convolutional neural network accerlator for FPGAs.
+
